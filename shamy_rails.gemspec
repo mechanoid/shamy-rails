@@ -7,11 +7,11 @@ require "shamy_rails/version"
 Gem::Specification.new do |s|
   s.name        = "shamy_rails"
   s.version     = ShamyRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ShamyRails."
-  s.description = "TODO: Description of ShamyRails."
+  s.authors       = ["Falk Hoppe, Roman Stranghöner"]
+  s.email         = ["falkhoppe81@gmail.com"]
+  s.description   = %q{rails integration for the equally named ruby gem}
+  s.summary       = %q{rails integration for the equally named ruby gem}
+  s.homepage      = ""
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
