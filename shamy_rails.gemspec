@@ -5,7 +5,7 @@ require "shamy_rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "shamy_rails"
+  s.name        = "shamy-rails"
   s.version     = ShamyRails::VERSION
   s.authors       = ["Falk Hoppe, Roman Stranghöner"]
   s.email         = ["falkhoppe81@gmail.com"]
